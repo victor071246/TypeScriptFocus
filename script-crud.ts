@@ -45,6 +45,9 @@ const atualizarUI = () => {
     `;
 
     const ulTarefas = document.querySelector(".app__section-task-list");
+
+    document.querySelector;
+
     if (ulTarefas) {
         ulTarefas.innerHTML = "";
     }
